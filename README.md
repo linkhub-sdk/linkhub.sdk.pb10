@@ -9,7 +9,7 @@ Uses
 
 Requirement
 ----
-* Window XP+ or Window 2003+ (Used dll is advapi32.dll, crypt32.dll)
+* Window XP+ or Window 2003+ (Used dll : advapi32.dll, crypt32.dll)
 
 
 Etc
